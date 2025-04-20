@@ -23,7 +23,6 @@ matplotlib
 more-itertools
 mpmath
 networkx
-numba
 numpy
 openai-whisper
 packaging
@@ -34,7 +33,6 @@ platformdirs
 pooch
 psutil
 ptyprocess
-pwquality
 pybind11
 pycairo
 pycparser
